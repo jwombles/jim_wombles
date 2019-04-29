@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=jim_wombles
+POSTGRES_USER=UExuIPORQKVBDPqaLNVXKpJsmLpTjMJm
+POSTGRES_PASSWORD=FE6JNvnuisNLOOPEe8dki7503WxqaxCr2lYI2MHlPQ5agLS0k96c5kx1esFJrPJ8

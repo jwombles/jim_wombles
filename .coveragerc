@@ -1,0 +1,5 @@
+[run]
+include = jim_wombles/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
